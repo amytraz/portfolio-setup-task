@@ -1,43 +1,43 @@
 # Mike King – LinkedIn Posts
 
-## Post 1: AI SEO Tools
+## Post 1: 24 AI Tools for SEO
 - Date: October 29, 2025  
 - Link: https://www.linkedin.com/posts/moz_4-ways-im-using-ai-tools-for-seo-activity-7389708988369604608-_CnN  
 
 - Summary:  
-Shares how AI tools, including custom GPTs, can be used for SEO audits, research, and content optimization, emphasizing targeted applications over generic usage.
+Shares a collection of AI tools and custom GPTs for SEO workflows, emphasizing solving specific problems rather than chasing new tools.
 
 - Key Insights:
-  - Custom AI tools improve efficiency in SEO workflows  
-  - AI should be applied to specific problems rather than broadly  
-  - Automation enables scalable content and audit processes  
+  - Custom GPTs can streamline audits, research, and content workflows  
+  - AI should be applied to targeted use cases for maximum efficiency  
+  - Value-driven implementation is more important than tool quantity  
 
 ---
 
-## Post 2: Future SEO Measurement
-- Date: June 24, 2025  
-- Link: https://www.linkedin.com/posts/michaelkingphilly_decoding-the-future-of-seo-measurement-activity-7343684048722026496-TOYo  
+## Post 2: SEO in 2025 – Innovate with Agents
+- Date: December 12, 2024  
+- Link: https://www.linkedin.com/posts/michaelkingphilly_people-have-asked-me-about-seo-in-2025-activity-7273137999448600576-OEeT  
 
 - Summary:  
-Explains how AI is changing SEO measurement, shifting focus from traditional metrics like clicks and impressions to more complex signal-based evaluation models.
+Discusses how generative AI agents are reshaping SEO, highlighting the gap between teams that adopt automation and those relying on outdated practices.
 
 - Key Insights:
-  - Traditional SEO metrics are becoming less reliable  
-  - Probabilistic models are needed to measure AI-driven performance  
-  - Data-driven frameworks improve content strategy decisions  
+  - AI agents enable scalable automation in SEO workflows  
+  - Traditional approaches like manual link-building are becoming less effective  
+  - Early adopters of AI systems gain a competitive advantage  
 
 ---
 
-## Post 3: AI Content Workflows
-- Date: 2025–2026  
-- Link: https://www.linkedin.com/in/contentar  
+## Post 3: AI Optimization Flaws
+- Date: March 12, 2025  
+- Link: https://www.linkedin.com/posts/michaelkingphilly_seoweek-activity-7305958743689646080-JgWC  
 
 - Summary:  
-Discusses the application of AI in building scalable content workflows, focusing on relevance engineering and structured optimization approaches used in agency environments.
+Explains limitations of traditional SEO tools in the context of AI-driven search, emphasizing the shift toward semantic relevance and multi-channel signals.
 
 - Key Insights:
-  - AI enables scalable and repeatable content systems  
-  - Relevance engineering improves content performance in search  
-  - Automation supports efficient SEO workflows for teams  
+  - Keyword-based optimization is less effective in semantic search systems  
+  - AI models prioritize relationships and contextual meaning  
+  - Social, PR, and multi-channel signals improve AI visibility  
 
 ---

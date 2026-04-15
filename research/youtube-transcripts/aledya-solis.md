@@ -1,52 +1,49 @@
 # Aleyda Solís – YouTube Transcripts
 
-## Video 1: How to Prepare for AI Search
-- Date: September 2, 2025  
-- Link: https://www.youtube.com/watch?v=NNl9sRCv3q8  
+## Video 1: SEO for LLMs: Adapting to the AI-first Web
+- Date: May 22, 2025  
+- Link: https://www.youtube.com/watch?v=T9d4GOCpBIE  
 
 - Summary:  
-Aleyda outlines a structured roadmap for AI search optimization, covering validation, technical readiness, content prioritization, pilot execution, and measurement. She emphasizes that traditional SEO fundamentals still apply, while AI enables scalable content and better use of first-party data.
+Explains how SEO is evolving for AI-first search environments, focusing on how large language models (LLMs) crawl, interpret, and surface content. Emphasizes technical SEO, structured content, and measuring AI-driven visibility.
 
 - Key Insights:
-  - AI search traffic is growing, but most traditional SEO principles remain relevant  
-  - Topical authority and multi-platform presence improve AI visibility  
-  - AI-driven search favors content cited across platforms like YouTube and Reddit  
-  - Flexible, high-quality content strategies outperform short-term AI trends  
-  - Measurement should focus on visibility, relevance, and performance outcomes  
+  - AI search requires optimizing for how LLMs interpret and retrieve content  
+  - Structured content improves extractability in AI-generated answers  
+  - Technical SEO (crawlability and indexing) remains critical  
+  - Visibility now includes AI platforms beyond traditional search engines  
+  - Content must be clear, well-organized, and machine-readable  
 
 - Practical Strategies:
-  - Assess current SEO performance and identify AI opportunities  
-  - Optimize technical SEO for AI-driven indexing  
-  - Build topical authority across multiple platforms  
-  - Run pilot projects and measure impact before scaling  
+  - Ensure content is easily crawlable and indexable  
+  - Use structured sections and clear headings for better extraction  
+  - Track visibility across both search engines and AI platforms  
 
 - Tools / Workflows:
-  - Generative AI for scalable content creation  
-  - Internal linking automation  
-  - First-party data integration for unique content  
+  - SEO tools for tracking AI and SERP visibility  
+  - Technical audits for crawlability and indexing  
 
 ---
 
-## Video 2: Google’s and YouTube’s Algorithms
-- Date: August 10, 2025  
-- Link: https://www.marketingspeak.com/googles-and-youtubes-ever-changing-algorithms-with-aleyda-solis/  
+## Video 2: The AI Search Optimization Roadmap
+- Date: September 9, 2025  
+- Link: https://www.youtube.com/watch?v=BjyF_4UhoOM  
 
 - Summary:  
-Aleyda explains YouTube optimization using the RER framework (Relevance, Engagement, Retention), along with strategies for improving content performance through pruning, embedding, and distribution.
+Provides a step-by-step roadmap for optimizing content for AI search, including chunk-level optimization, citation-focused strategies, and building topical authority.
 
 - Key Insights:
-  - YouTube performance depends on relevance, engagement, and retention  
-  - Content pruning improves overall site and channel quality  
-  - Early engagement signals influence algorithmic reach  
-  - Embedding videos enhances visibility in search results  
-  - Engagement matters more than vanity metrics like views  
+  - AI search relies on content chunks rather than full-page ranking  
+  - Citation-worthiness is critical for appearing in AI answers  
+  - Topical authority improves visibility across AI systems  
+  - Structured optimization processes are required for AI search success  
+  - SEO is evolving into broader “findability” across platforms  
 
 - Practical Strategies:
-  - Optimize titles, descriptions, and tags for relevance  
-  - Share content immediately with engaged audiences  
-  - Focus on retention-driven content formats  
-  - Audit performance using RER framework  
+  - Break content into clear, structured sections  
+  - Focus on building authority across related topics  
+  - Optimize for being cited in AI-generated responses  
 
 - Tools / Workflows:
-  - YouTube Analytics for engagement and retention tracking  
-  - Video embedding tools for improved SERP visibility  
+  - Content structuring frameworks for AI retrieval  
+  - AI-focused SEO checklists for optimization  

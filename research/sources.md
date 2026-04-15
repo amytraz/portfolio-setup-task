@@ -44,11 +44,11 @@
 - Date: 2025–2026  
 - Why relevant: Expert in semantic SEO and topical authority. Applies AI-driven content structuring using semantic networks and micro-context signals.
 
-## 8. Mandeep Singh Chahal
-- Platform: LinkedIn, Blog  
-- Link: https://www.linkedin.com/in/mandeepseodiscovery  
+## 8. Bernard Huang
+- Platform: LinkedIn, Blog (Clearscope)  
+- Link: https://www.linkedin.com/in/bernardjhuang  
 - Date: 2025–2026  
-- Why relevant: CEO of SEO Discovery. Uses AI for keyword research, content structuring, and scalable SEO workflows for enterprise clients.
+- Why relevant: Co-founder of Clearscope. Focuses on AI-driven SEO, AEO/GEO workflows, and content optimization for modern search systems. Shares practical frameworks for ranking in both Google and AI-powered platforms.
 
 ## 9. Neil Patel
 - Platform: Blog, LinkedIn, YouTube  

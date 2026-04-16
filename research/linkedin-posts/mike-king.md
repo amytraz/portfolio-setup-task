@@ -1,4 +1,4 @@
-# Mike King – LinkedIn Posts
+# Mike King - LinkedIn Posts
 
 ## Post 1: 24 AI Tools for SEO
 - Date: October 29, 2025  
@@ -14,7 +14,7 @@ Shares a collection of AI tools and custom GPTs for SEO workflows, emphasizing s
 
 ---
 
-## Post 2: SEO in 2025 – Innovate with Agents
+## Post 2: SEO in 2025 - Innovate with Agents
 - Date: December 12, 2024  
 - Link: https://www.linkedin.com/posts/michaelkingphilly_people-have-asked-me-about-seo-in-2025-activity-7273137999448600576-OEeT  
 
@@ -41,3 +41,10 @@ Explains limitations of traditional SEO tools in the context of AI-driven search
   - Social, PR, and multi-channel signals improve AI visibility  
 
 ---
+
+## Practical Strategies
+- Apply AI agents to specific SEO jobs such as audits, research, and workflow automation.
+- Expand measurement beyond keywords to semantic relevance, multi-channel signals, and business impact.
+
+## Tools / Workflows
+- Custom GPTs, AI agents, technical SEO audits, relevance engineering, and multi-channel visibility analysis.

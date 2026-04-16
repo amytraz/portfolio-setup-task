@@ -1,11 +1,10 @@
-# Connor Kimball - YouTube Transcript Notes
+# Connor Kimball - YouTube Research Notes
 
 ## Video 1: High-Intent Content Strategies for AI SEO with Cairrot
 - Date: March 16, 2026
 - Link: https://www.youtube.com/watch?v=hMFrOxAZe6k
 - Channel: Best SEO Podcast: Search with LLM Visibility
 - Duration: 3:09
-- Raw captions: `research/youtube-transcripts/raw/hMFrOxAZe6k.en-orig.vtt`, `research/youtube-transcripts/raw/hMFrOxAZe6k.en.vtt`
 
 - Summary:
 Explains how AI-driven search is shifting toward high-intent, structured content. Focuses on AEO strategies, unified analytics, and integrating SEO with conversion and lead nurturing systems.
@@ -35,7 +34,6 @@ Explains how AI-driven search is shifting toward high-intent, structured content
 - Link: https://www.youtube.com/watch?v=oG6qw6T38aQ
 - Channel: Best SEO Podcast: Search with LLM Visibility
 - Duration: 2:23
-- Raw captions: `research/youtube-transcripts/raw/oG6qw6T38aQ.en-orig.vtt`, `research/youtube-transcripts/raw/oG6qw6T38aQ.en.vtt`
 
 - Summary:
 Discusses how clickstream data and AI analysis can uncover hidden search and audience opportunities. Focuses on using behavioral data to improve SEO, content prioritization, and marketing decisions.

@@ -1,11 +1,10 @@
-# Bernard Huang - YouTube Transcript Notes
+# Bernard Huang - YouTube Research Notes
 
-## Video 1: Creating Content Google Can Not Ignore with Bernard Huang
+## Video 1: Creating Content Google Cannot Ignore with Bernard Huang
 - Date: November 9, 2022
 - Link: https://www.youtube.com/watch?v=UaK-N7zGq70
 - Channel: Jaryd Krause - Buying Online Businesses
 - Duration: 55:48
-- Raw captions: `research/youtube-transcripts/raw/UaK-N7zGq70.en-orig.vtt`, `research/youtube-transcripts/raw/UaK-N7zGq70.en.vtt`
 
 - Summary:
 Explains how to create high-performing SEO content by focusing on topical authority, search intent, and entity coverage. Emphasizes adapting to algorithm updates by prioritizing unique, high-quality content over large-scale production.
@@ -35,7 +34,6 @@ Explains how to create high-performing SEO content by focusing on topical author
 - Link: https://www.youtube.com/watch?v=33OLfnufbXg
 - Channel: Omniscient
 - Duration: 1:22:20
-- Raw captions: `research/youtube-transcripts/raw/33OLfnufbXg.en-orig.vtt`, `research/youtube-transcripts/raw/33OLfnufbXg.en.vtt`
 
 - Summary:
 Discusses building scalable content systems for modern SEO, highlighting the importance of strategy, niche focus, and AI-assisted workflows. Emphasizes structured systems over isolated tactics.

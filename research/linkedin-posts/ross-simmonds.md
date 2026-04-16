@@ -1,4 +1,4 @@
-# Ross Simmonds – LinkedIn Posts
+# Ross Simmonds - LinkedIn Posts
 
 ## Post 1: Content Distribution Flywheel
 - Date: April 8, 2026  
@@ -41,3 +41,10 @@ Demonstrates how AI tools can transform long-form content into multiple platform
   - Structured amplification builds long-term topical authority  
 
 ---
+
+## Practical Strategies
+- Build distribution into the content plan before publishing.
+- Repurpose high-value assets across search, social, community, and video channels.
+
+## Tools / Workflows
+- Content distribution flywheels, repurposing workflows, AI-assisted format conversion, and cross-channel tracking.

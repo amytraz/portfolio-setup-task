@@ -1,4 +1,4 @@
-# Connor Kimball – LinkedIn Posts
+# Connor Kimball - LinkedIn Posts
 
 ## Post 1: LLM Traffic Growth
 - Date: March 19, 2026  
@@ -41,3 +41,10 @@ Provides a comprehensive set of AEO strategies for niche industries, focusing on
   - Industry-specific strategies are essential for scalable results  
 
 ---
+
+## Practical Strategies
+- Combine AEO, SEO fundamentals, and conversion-focused content for high-intent traffic.
+- Use human-led trust signals such as video, events, and personal presence to support AI-era content.
+
+## Tools / Workflows
+- AEO strategy guides, data hygiene reviews, structured content checklists, and AI visibility measurement.

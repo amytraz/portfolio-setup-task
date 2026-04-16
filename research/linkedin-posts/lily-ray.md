@@ -1,4 +1,4 @@
-# Lily Ray – LinkedIn Posts
+# Lily Ray - LinkedIn Posts
 
 ## Post 1: Content Stress Test
 - Date: March 12, 2026  
@@ -41,3 +41,10 @@ Announces the launch of Algorythmic, a consulting initiative focused on AI searc
   - Businesses need adaptive strategies for evolving search systems  
 
 ---
+
+## Practical Strategies
+- Stress-test AI-generated content against quality, authority, and long-term ranking stability.
+- Use E-E-A-T and recovery audits before scaling production volume.
+
+## Tools / Workflows
+- Content quality audits, E-E-A-T reviews, algorithm recovery workflows, and structured data checks.

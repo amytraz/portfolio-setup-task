@@ -1,4 +1,4 @@
-# Aleyda Solís – LinkedIn Posts
+# Aleyda Solis - LinkedIn Posts
 
 ## Post 1: SEO/AI Updates Roundup
 - Date: January 25, 2026  
@@ -55,3 +55,10 @@ Highlights the importance of creating high-authority content such as research, c
   - Structured content performs better across both Google and AI systems  
 
 ---
+
+## Practical Strategies
+- Track AI-search visibility gaps before increasing content investment.
+- Prioritize structured, authority-building assets such as research, case studies, feeds, and user-generated content.
+
+## Tools / Workflows
+- SEOFOMO-style update tracking, AI visibility reviews, structured data checks, and ROI-based prioritization.

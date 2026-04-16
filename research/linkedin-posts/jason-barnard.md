@@ -1,4 +1,4 @@
-# Jason Barnard – LinkedIn Posts
+# Jason Barnard - LinkedIn Posts
 
 ## Post 1: Kalicube Process Update
 - Date: January 25, 2026
@@ -42,3 +42,10 @@ Explains how AI systems rely on accurate annotation to interpret content, and ho
   - Early content clarity affects downstream performance
 
 ---
+
+## Practical Strategies
+- Keep brand, entity, and topic signals consistent across owned and third-party profiles.
+- Audit content for annotation clarity so AI systems can correctly interpret what each page represents.
+
+## Tools / Workflows
+- Kalicube-style entity audits, knowledge graph reviews, brand narrative checks, and AEO ecosystem mapping.

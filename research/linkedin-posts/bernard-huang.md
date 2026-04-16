@@ -1,4 +1,4 @@
-# Bernard Huang – LinkedIn Posts
+# Bernard Huang - LinkedIn Posts
 
 ## Post 1: AEO/GEO Workflow
 - Date: December 14, 2025  
@@ -23,7 +23,7 @@ Explains the shift in SEO from keyword optimization to understanding user intent
 
 - Key Insights:
   - AI search prioritizes context and intent over traditional keywords  
-  - “Long Long Tail” reflects deeper, more complex queries  
+  - "Long Long Tail" reflects deeper, more complex queries
   - Brand understanding plays a key role in AI-driven rankings  
 
 ---
@@ -41,3 +41,10 @@ Introduces new AI-powered SEO tools focused on intent analysis and tracking visi
   - Enterprise SEO is evolving toward integrated AI systems  
 
 ---
+
+## Practical Strategies
+- Build AEO/GEO workflows around intent, brand mentions, and AI-generated query patterns.
+- Use AI tools to improve relevance and targeting while preserving editorial judgment.
+
+## Tools / Workflows
+- Clearscope, intent analysis, LLM visibility tracking, and AI-search workflow reviews.

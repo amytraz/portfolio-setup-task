@@ -1,11 +1,10 @@
-# Ross Simmonds - YouTube Transcript Notes
+# Ross Simmonds - YouTube Research Notes
 
 ## Video 1: SEOs Who Ignore Distribution Will Fall Behind
 - Date: February 10, 2026
 - Link: https://www.youtube.com/watch?v=YDqpxuGkfhw
 - Channel: iPullRank
 - Duration: 15:57
-- Raw captions: `research/youtube-transcripts/raw/YDqpxuGkfhw.en-orig.vtt`, `research/youtube-transcripts/raw/YDqpxuGkfhw.en.vtt`
 
 - Summary:
 Explains how SEO is evolving beyond traditional search engines, emphasizing the importance of content distribution across platforms like Reddit, LinkedIn, and YouTube to improve visibility in AI-driven search systems.
@@ -33,7 +32,6 @@ Explains how SEO is evolving beyond traditional search engines, emphasizing the 
 - Link: https://www.youtube.com/watch?v=xLWBDKX-_3Q
 - Channel: Marketing Against the Grain
 - Duration: 39:52
-- Raw captions: `research/youtube-transcripts/raw/xLWBDKX-_3Q.en-US.vtt`
 
 - Summary:
 Discusses how AI is transforming search behavior and how brands can adapt by focusing on niche opportunities, content distribution, and combining AI with human-driven strategies.

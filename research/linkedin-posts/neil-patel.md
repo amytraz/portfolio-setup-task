@@ -1,4 +1,4 @@
-# Neil Patel – LinkedIn Posts
+# Neil Patel - LinkedIn Posts
 
 ## Post 1: AI Search Transformation
 - Date: September 16, 2025  
@@ -41,3 +41,10 @@ Discusses the growing investment in AI-driven SEO strategies, with businesses sh
   - AI-driven workflows can significantly improve traffic outcomes  
 
 ---
+
+## Practical Strategies
+- Structure content so both algorithms and human readers can quickly understand the page.
+- Balance traditional SEO investment with AEO/GEO testing and AI-assisted workflows.
+
+## Tools / Workflows
+- Content planning systems, structured content briefs, AI SEO budgeting, and hybrid SEO/AEO workflows.

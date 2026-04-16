@@ -1,11 +1,10 @@
-# Aleyda Solis - YouTube Transcript Notes
+# Aleyda Solis - YouTube Research Notes
 
 ## Video 1: SEO for LLMs: Adapting to the AI-first Web with Aleyda Solis & Ray Grieselhuber
 - Date: May 22, 2025
 - Link: https://www.youtube.com/watch?v=T9d4GOCpBIE
 - Channel: Sitebulb
 - Duration: 1:00:20
-- Raw captions: `research/youtube-transcripts/raw/T9d4GOCpBIE.en-orig.vtt`, `research/youtube-transcripts/raw/T9d4GOCpBIE.en.vtt`
 
 - Summary:
 Explains how SEO is evolving for AI-first search environments, focusing on how large language models (LLMs) crawl, interpret, and surface content. Emphasizes technical SEO, structured content, and measuring AI-driven visibility.
@@ -33,7 +32,6 @@ Explains how SEO is evolving for AI-first search environments, focusing on how l
 - Link: https://www.youtube.com/watch?v=BjyF_4UhoOM
 - Channel: Dennis Shiao
 - Duration: 1:03:54
-- Raw captions: `research/youtube-transcripts/raw/BjyF_4UhoOM.en-orig.vtt`, `research/youtube-transcripts/raw/BjyF_4UhoOM.en.vtt`
 
 - Summary:
 Provides a step-by-step roadmap for optimizing content for AI search, including chunk-level optimization, citation-focused strategies, and building topical authority.
@@ -43,7 +41,7 @@ Provides a step-by-step roadmap for optimizing content for AI search, including 
   - Citation-worthiness is critical for appearing in AI answers
   - Topical authority improves visibility across AI systems
   - Structured optimization processes are required for AI search success
-  - SEO is evolving into broader “findability” across platforms
+  - SEO is evolving into broader "findability" across platforms
 
 - Practical Strategies:
   - Break content into clear, structured sections

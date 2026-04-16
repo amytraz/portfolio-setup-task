@@ -1,4 +1,4 @@
-# Nathan Gotch – LinkedIn Posts
+# Nathan Gotch - LinkedIn Posts
 
 ## Post 1: AI Dominance via SERPs
 - Date: August 24, 2025  
@@ -24,7 +24,7 @@ Outlines key SEO trends for 2026, highlighting the decline in organic CTR and th
 - Key Insights:
   - Organic click-through rates are decreasing due to AI answers  
   - User-generated content plays a major role in AI training data  
-  - SEO is evolving into “Search Everywhere Optimization”  
+  - SEO is evolving into "Search Everywhere Optimization"
 
 ---
 
@@ -33,7 +33,7 @@ Outlines key SEO trends for 2026, highlighting the decline in organic CTR and th
 - Link: https://www.linkedin.com/posts/nathangotch_i-just-read-geo-ready-content-please-activity-7385739834704904194-F4SB  
 
 - Summary:  
-Challenges the idea of “GEO hacks” and reinforces that strong technical SEO and structured content are sufficient for AI search performance.
+Challenges the idea of "GEO hacks" and reinforces that strong technical SEO and structured content are sufficient for AI search performance.
 
 - Key Insights:
   - Basic SEO fundamentals directly impact AI visibility  
@@ -55,3 +55,10 @@ Discusses how SEO agencies are adapting to AI search demand by repositioning the
   - Combining SEO fundamentals with AI positioning creates new opportunities  
 
 ---
+
+## Practical Strategies
+- Keep traditional SEO fundamentals strong while adapting messaging for AI-search demand.
+- Improve AI visibility through SERP control, structured pages, internal linking, and user-generated content signals.
+
+## Tools / Workflows
+- SERP analysis, GEO-readiness reviews, internal linking audits, and agency positioning workflows.

@@ -1,4 +1,4 @@
-# Koray Tuğberk GÜBÜR – LinkedIn Posts
+# Koray Tugberk Gubur - LinkedIn Posts
 
 ## Post 1: Semantic SEO Community
 - Date: February 17, 2026  
@@ -41,3 +41,10 @@ Details a case study achieving significant traffic growth through programmatic S
   - Micro-context improves optimization for natural language search  
 
 ---
+
+## Practical Strategies
+- Build topical maps before scaling content across categories, languages, or programmatic pages.
+- Use entity coverage and micro-context to make content easier for search and AI systems to interpret.
+
+## Tools / Workflows
+- Semantic SEO frameworks, topical maps, multilingual content systems, and entity-based content audits.

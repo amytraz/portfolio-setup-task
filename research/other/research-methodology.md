@@ -10,9 +10,9 @@
 ---
 
 ## Collection Method
-- LinkedIn posts were manually collected from public URLs and converted into structured research notes  
-- YouTube content was collected using publicly available transcripts and AI-assisted tools, then distilled into concise research notes by video  
-- Content was intentionally **filtered and synthesized** to prioritize high-signal insights over raw data  
+- LinkedIn posts were manually collected from public URLs and normalized into structured research notes
+- YouTube videos were reviewed using publicly available transcripts and AI-assisted tools, then distilled into concise research notes by video
+- Content was filtered and synthesized to prioritize high-signal insights over raw data
 
 Each entry follows a consistent structure:
 - Summary  
@@ -42,3 +42,4 @@ research/
   linkedin-posts/
   youtube-transcripts/
   other/
+```
